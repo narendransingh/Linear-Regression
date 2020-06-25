@@ -1,3 +1,4 @@
 # Linear-Regression
 Simple problems on Linear Regression in python codes
-<hd> Update project </hd>
+
+#<hd> Project to estimate the housing Prices </hd>
